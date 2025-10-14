@@ -13,9 +13,7 @@ export default function About() {
           <section className="marta-info">
             <h2>Metropolitan Atlanta Rapid Transit Authority</h2>
             <p>
-              MARTA is the ninth-largest rapid transit system in the United States by ridership. 
-              It operates heavy rail rapid transit and bus services in the Atlanta metropolitan area, 
-              serving the cities of Atlanta, Decatur, East Point, and College Park.
+              Marta: a convenient way to travel across metro atlanta. Great for people of all walks of life!! whether you are a local or a visitor, travelling to the airport or your 9 to 5, Marta is a great way to get around the city.
             </p>
           </section>
 

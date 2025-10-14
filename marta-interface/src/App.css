@@ -9,6 +9,7 @@
   width: 100%;
 }
 
+
 .app {
   min-height: 100vh;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -643,6 +644,10 @@ p.marta-info {
 
 .error-container button:hover {
   background: #004499;
+}
+
+p {
+  color: rgb(199, 199, 199);
 }
 
 /* Responsive Design */
